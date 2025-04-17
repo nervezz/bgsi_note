@@ -1,3 +1,6 @@
+-- Send test message in the console to see if executed
+print("success")
+
 -- List of egg names to check
 local eggNames = { "rainbow-egg", "nightmare-egg", "void-egg" }
 
