@@ -2,7 +2,7 @@
 print("success")
 
 -- List of egg names to check
-local eggNames = { "rainbow-egg", "nightmare-egg", "void-egg" }
+local eggNames = { "rainbow-egg", "nightmare-egg", "void-egg", "event-2", "event-1" }
 
 -- Function to check all eggs
 local function checkEggs()
